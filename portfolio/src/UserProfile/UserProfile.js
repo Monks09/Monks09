@@ -10,7 +10,7 @@ function UserProfile() {
                 <Button text="Download Resume" />
             </div>
             <div>
-                <img style={{ borderRadius: "50%", height: "300px" }} src="https://eddie-hernandez.com/wp-content/uploads/2021/08/Commercial-Real-Estate-Headshot-1026.jpg" alt="avatar-img" />
+                <img style={{ borderRadius: "50%", height: "300px" }} src="https://drive.google.com/file/d/1d4hIZ8leShfXoeG0AXaLrNh6l9pikBU0/view?usp=share_link" alt="avatar-img" />
             </div>
 
         </div>
