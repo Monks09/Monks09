@@ -10,7 +10,7 @@ function UserProfile() {
                 <Button text="Download Resume" />
             </div>
             <div>
-                <img style={{ borderRadius: "50%", height: "300px" }} src="https://drive.google.com/file/d/1d4hIZ8leShfXoeG0AXaLrNh6l9pikBU0/view?usp=share_link" alt="avatar-img" />
+                <img style={{height: "300px", borderRadius: "50%"}} src="./my-photo.jpg" alt="avatar-img" />
             </div>
 
         </div>
