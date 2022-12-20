@@ -1,0 +1,58 @@
+.ProjectCard {
+    border: 5px solid rgb(193, 192, 192);
+    border-radius: 10px;
+    display: flex;
+    margin: 20px 0px;
+}
+
+.ProjectCard > div {
+    width: 50%
+}
+
+.ProjectCard img {
+    width: 100%;
+}
+
+.ProjectCard > div:last-child {
+    padding: 20px;
+}
+
+.tagsDiv {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px 0px;
+}
+
+.tagsDiv > span {
+    background-color: rgb(1,164,121);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 3px 8px;
+}
+
+.linksDiv {
+    margin: 30px 0px;
+}
+
+.linksDiv > a {
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+}
+
+.linksDiv > a > i {
+    margin: 0px 5px;
+}
+
+.linksDiv > a:first-child {
+    background-color: black;
+}
+
+.linksDiv > a:last-child {
+    background-color: royalblue;
+}
+
+
+

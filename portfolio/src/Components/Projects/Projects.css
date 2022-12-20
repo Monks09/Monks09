@@ -1,3 +1,9 @@
 .Projects {
-    border: 2px solid red;
+    width: 85%;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+.Projects > h1 {
+    text-align: center;
 }
