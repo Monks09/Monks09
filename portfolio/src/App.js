@@ -4,6 +4,8 @@ import UserProfile from './Components/UserProfile/UserProfile';
 import PersonalDetails from './Components/PersonalDetails/PersonalDetails';
 import Skills from './Components/Skills/Skills';
 import Projects from './Components/Projects/Projects';
+import Statistics from './Components/Statistics/Statistics';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
       <PersonalDetails />
       <Skills />
       <Projects />
+      <Statistics />
+      <Footer />
     </div>
   );
 }

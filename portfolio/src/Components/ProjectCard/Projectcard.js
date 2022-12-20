@@ -10,9 +10,10 @@ function ProjectCard({image, title, desc, type, tech_stack, github_link, website
             <p>{desc}</p>
             <p style={{fontWeight:"bold"}}>{type}</p>
             <div className="tagsDiv">
+                <span>Tech Stack:</span>
                 {
                     tech_stack.map((el)=>{
-                        return <span>{el}</span>
+                        return <span className="tech-name">{el}</span>
                     })
                 }
             </div>
