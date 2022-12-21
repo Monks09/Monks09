@@ -6,6 +6,8 @@ import Skills from './Components/Skills/Skills';
 import Projects from './Components/Projects/Projects';
 import Statistics from './Components/Statistics/Statistics';
 import Footer from './Components/Footer/Footer';
+import GithubCalender from './Components/GithubCalender/GithubCalender';
+import Contact from './Components/Contact/Contact';
 
 function App() {
   return (
@@ -15,7 +17,9 @@ function App() {
       <PersonalDetails />
       <Skills />
       <Projects />
+      <GithubCalender />
       <Statistics />
+      <Contact />
       <Footer />
     </div>
   );
