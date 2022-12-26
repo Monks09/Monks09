@@ -1,6 +1,6 @@
 .UserProfile {
     width: 80%;
-    margin: 30px auto;
+    margin: auto;
     display: flex;
     justify-content: space-around;
     align-items: center;

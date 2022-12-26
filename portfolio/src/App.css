@@ -9,3 +9,7 @@
 .App {
   position: relative;
 }
+
+.App > div:not(.Navbar) {
+  margin-top: 50px;
+}

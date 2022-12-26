@@ -1,14 +1,14 @@
 .PersonalDetails {
     width: 80%;
-    margin: 30px auto;
+    margin: auto;
     display: flex;
     padding: 20px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
     border-radius: 10px;
+    background-color: aliceblue;
 }
 
 .PersonalDetails > div:first-child {
-    background-color: rgb(248,249,250);
     padding: 10px 20px;
     border-radius: 10px;
 }

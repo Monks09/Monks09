@@ -1,7 +1,7 @@
 .Skills {
     text-align: center;
     width: 85%;
-    margin: 30px auto;
+    margin: auto;
 }
 
 .skillsContainer {
@@ -10,4 +10,6 @@
     gap: 20px;
     padding: 30px;
     margin-top: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
 }
