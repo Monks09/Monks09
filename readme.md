@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://monks09.github.io](https://monks09.github.io)
+- 👨‍💻 All of my projects are available at [https://monks09.github.io/](https://monks09.github.io/)
 
 - 💬 Ask me about **Programming, Frontend development, Backend development**
 
