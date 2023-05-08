@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://monks09.github.io](https://monks09.github.io)
+- 👨‍💻 All of my projects are available at [https://monks09.github.io/](https://monks09.github.io/)
 
 - 💬 Ask me about **Programming, Frontend development, Backend development**
 
 - 📫 How to reach me **mayanksharma5104@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/f/s!Asu6__sQ1hSmn_c3J_Kl3vKjTx9YQw?e=jXof7J](https://1drv.ms/f/s!Asu6__sQ1hSmn_c3J_Kl3vKjTx9YQw?e=jXof7J)
+- 📄 Know about my experiences [my-resume](https://1drv.ms/f/s!Asu6__sQ1hSmn_c3J_Kl3vKjTx9YQw?e=jXof7J)
 
 - ⚡ Fun fact **I am a cinephile**
 
