@@ -4,8 +4,9 @@
 
 <br>
 Hi, My name is Mayank Sharma and I am from Kolkata. I have done my graduation in B.Sc Computer Science from Calcutta University. I have completed Masai School's Full Stack Web Development programme where I learned Web Development using MERN Stack and have collaborated on several projects over the course of the programme.
- - Can also add some details like why and when I decided to make a career in tech, what was my first project, etc.
- - Can also add some personal details like family details and hobbies.
+
+* Can also add some details like why and when I decided to make a career in tech, what was my first project, etc.
+* Can also add some personal details like family details and hobbies.
 <br>
 <br>
 
