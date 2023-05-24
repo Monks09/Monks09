@@ -1,19 +1,16 @@
 # General Questions
 
-
 ### <i>Introduce yourself ( 1-2 minutes)</i>
+
 <br>
-Hello, my name is Mayank Sharma. I am from Kolkata, West Bengal. I have done my graduation in B.Sc. Computer Science (Honours) from Calcutta University.
-
-I joined Masai School in my final semester of college because college curriculum was good but it was mostly theoretical and I wanted to learn the actual skills and tools which are required for working in the tech industry.
-
-So I joined Masai School's Web Development programme which is a 30 week intensive curriculum where I learned frontend and backend technologies and collaborated on several projects with various people over the course of the programme.
-
-Outside of work and studies I enjoy playing football, watching movies and reading short stories.
+Hi, My name is Mayank Sharma and I am from Kolkata. I have done my graduation in B.Sc Computer Science from Calcutta University. I have completed Masai School's Full Stack Web Development programme where I learned Web Development using MERN Stack and have collaborated on several projects over the course of the programme.
+ - Can also add some details like why and when I decided to make a career in tech, what was my first project, etc.
+ - Can also add some personal details like family details and hobbies.
 <br>
 <br>
 
 ### <i>What are your strengths and your weaknesses?</i>
+
 <br>
 When answering the question about your strengths and weaknesses, it's important to be honest and authentic. Here's a potential answer:
 
@@ -28,6 +25,7 @@ Remember, when discussing your weaknesses, it's important to frame them in a pos
 <br>
 
 ### <i>What are your career Objectives? / Where do you see yourself in 5 years?</i>
+
 <br>
 As a software developer fresher, it's important to show your enthusiasm for the field and your willingness to learn and grow. Here's a potential answer to the question, "Where do you see yourself in 5 years?":
 
@@ -40,6 +38,7 @@ Remember to tailor your answer to the specific job and company you're applying t
 <br>
 
 ### <i>Why should we hire you? / Why do you think you are eligible for this job?</i>
+
 <br>
 When answering the question, "Why do you think you are eligible for this job?" for a software developer fresher job, it's important to demonstrate your understanding of the role and your qualifications for the position. Here's a potential answer:
 
@@ -52,6 +51,7 @@ Overall, I am confident that my education, technical skills, and passion for sof
 <br>
 
 ### <i>What is your greatest personal/professional achievement so far?</i>
+
 <br>
 When answering the question, "What is your greatest personal/professional achievement so far?" for a software developer fresher job, it's important to choose an accomplishment that demonstrates your skills and strengths in a way that is relevant to the job you're applying for. Here's a potential answer:
 
@@ -66,6 +66,7 @@ Remember to focus on the skills and strengths that you demonstrated during your 
 <br>
 
 ### <i>Tell me about a team project you were involved in.</i>
+
 <br>
 When answering the question "Tell me about a team project you were involved in" for a software developer fresher's job, here are a few tips to keep in mind:
 
@@ -84,6 +85,7 @@ Remember to speak confidently and clearly, and provide specific examples and det
 <br>
 
 ### <i>Do you have any questions for us?</i>
+
 <br>
 When an interviewer asks "Do you have any questions for us?" for a software developer fresher job, it's important to take advantage of the opportunity to demonstrate your interest in the company and learn more about the position. Here are a few potential questions you could ask:
 
